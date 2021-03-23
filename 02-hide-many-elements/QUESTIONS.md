@@ -8,6 +8,7 @@
 
 Your reply here...
 Izmantojot elementu .getElementsByClassName() norādam, kādu klasē mēs vēlamies paslēpt
+
 ---
 
 > Describe how you were able to hide each element. Were you able to do it as one operation, or did you use a loop of some kind? Describe the "contracts" that were utilized to accomplish your goal.
