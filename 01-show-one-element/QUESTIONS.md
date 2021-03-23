@@ -15,6 +15,7 @@ Nē, pēc atjaunināt lapu, teksts arī būs paslēpts. Kad mēs atsvaidzinājam
 
 Your reply here...
 Ja mēs noņemsim global.js saite "more" pārstāj darboties un rādīt slēpto tekstu
+
 ---
 
 > Describe the the `addEventListener` method. (Remember that there is a specific, technical, methodical way to describe methods. Your reply should match that format.)
